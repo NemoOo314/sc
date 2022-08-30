@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1661863444 source:c:\users\faisal\desktop\project\codeblocks\project\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdint.h>
+	"SDB.h"
+
+1661852822 c:\users\faisal\desktop\project\codeblocks\project\project3\sdb.h
+
